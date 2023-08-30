@@ -36,5 +36,5 @@ Sanse za prolaz su 20.12%
 # delicacies_from_the_bakery
 this exercise demonstrates handling data in textual files by finding the most affordable baked good from those offered in the file
 
-#flights
+# flights
 this exercise demonstrates handling binary files by finding the affordable flights from the log in the binary file, based on the input of funds
